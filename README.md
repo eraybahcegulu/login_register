@@ -2,8 +2,17 @@
 # https://pub.dev/packages/font_awesome_flutter
 # https://pub.dev/packages/flutter_animate
 # https://pub.dev/packages/get
-
-
+#https://pub.dev/packages/chewie
+#https://pub.dev/packages/flutter_map
+#https://pub.dev/packages/shimmer
+#https://pub.dev/packages/google_fonts
+#https://pub.dev/packages/animations
+#https://pub.dev/packages/flutter_bloc
+#https://pub.dev/packages/cupertino_icons
+#https://pub.dev/packages/firebase_auth
+#https://github.com/firebase/flutterfire/tree/master/packages/firebase_auth/firebase_auth/example/lib
+#https://pub.dev/packages/flutter_gen
+#https://pub.dev/packages/division
 
 A new Flutter project.
 
