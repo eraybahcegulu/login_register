@@ -1,7 +1,10 @@
 # login_register
 # https://pub.dev/packages/font_awesome_flutter
-
 # https://pub.dev/packages/flutter_animate
+# https://pub.dev/packages/get
+
+
+
 A new Flutter project.
 
 ## Getting Started
