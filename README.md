@@ -13,6 +13,7 @@
 # https://github.com/firebase/flutterfire/tree/master/packages/firebase_auth/firebase_auth/example/lib
 # https://pub.dev/packages/flutter_gen
 # https://pub.dev/packages/division
+#https://pub.dev/packages/animated_text_kit
 
 A new Flutter project.
 
