@@ -2,6 +2,7 @@ import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
 import 'package:login_register/auth/login.dart';
 import 'package:login_register/auth/register.dart';
+
 class Menu extends StatelessWidget {
   const Menu({super.key});
 
@@ -32,10 +33,10 @@ class Menu extends StatelessWidget {
                 ]),
           ),
           Container(
-            margin: const EdgeInsets.only(top: 20.0), // Üst margin ekleniyor
+            margin: const EdgeInsets.only(top: 20.0),
             child: Row(
               mainAxisAlignment:
-                  MainAxisAlignment.center, // Düğmeleri yatayda merkezle
+                  MainAxisAlignment.center, 
               children: [
                 // Düğme 1
                 Center(
@@ -43,7 +44,7 @@ class Menu extends StatelessWidget {
                     onPressed: () {
                       Navigator.push(
                         context,
-                        MaterialPageRoute(builder: (context) => const Login()),
+                        MaterialPageRoute(builder: (context) => Login()),
                       );
                     },
                     style: ElevatedButton.styleFrom(
@@ -55,16 +56,15 @@ class Menu extends StatelessWidget {
                       elevation: 10,
                     ),
                     child: const SizedBox(
-                      width: 150, // Genişlik
-                      height: 50, // Yükseklik
+                      width: 150,
+                      height: 50,
                       child: Center(
                         child: Text('LOG IN'),
                       ),
                     ),
                   ),
                 ),
-                const SizedBox(width: 20), // İki düğme arasına boşluk ekledik
-                // Düğme 2
+                const SizedBox(width: 20), 
                 Center(
                   child: ElevatedButton(
                     onPressed: () {
@@ -83,8 +83,8 @@ class Menu extends StatelessWidget {
                       elevation: 10,
                     ),
                     child: const SizedBox(
-                      width: 150, // Genişlik
-                      height: 50, // Yükseklik
+                      width: 150,
+                      height: 50,
                       child: Center(
                         child: Text('REGISTER'),
                       ),
