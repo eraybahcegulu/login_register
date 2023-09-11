@@ -10,7 +10,7 @@ class Welcome extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Welcome'),
+        title: const Text('HOŞGELDİN'),
       ),
       body: Center(
         child: Column(
