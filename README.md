@@ -17,6 +17,8 @@
 
 ![Screenshot_1](https://github.com/eraybahcegulu/login_register/assets/84785201/808d19e5-6b79-47e9-83f0-243723423a6e)
 
+![Screenshot_6](https://github.com/eraybahcegulu/login_register/assets/84785201/ac37b86e-ba4e-42d8-9e66-d5e0e6e530be)
+
 ![Screenshot_2](https://github.com/eraybahcegulu/login_register/assets/84785201/7c2d37bf-122b-47a1-87fd-ae537b4b9501)
 
 ![Screenshot_3](https://github.com/eraybahcegulu/login_register/assets/84785201/cdbaa53b-de45-4256-b1e3-6ecb9eb80cb1)
