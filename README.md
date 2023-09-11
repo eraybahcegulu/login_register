@@ -1,4 +1,4 @@
-- login_register with firebase control - flutter
+### login_register with firebase control - flutter
 - https://pub.dev/packages/font_awesome_flutter
 - https://pub.dev/packages/flutter_animate
 - https://pub.dev/packages/get
