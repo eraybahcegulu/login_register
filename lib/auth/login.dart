@@ -21,7 +21,7 @@ class _LoginState extends State<Login> {
       appBar: AppBar(
         title: Text('GİRİŞ YAP'),
       ),
-      body: Center( // Sayfayı ortalamak için Center widget'ını kullan
+      body: Center(
         child: Padding(
           padding: const EdgeInsets.all(16.0),
           child: Column(
